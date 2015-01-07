@@ -1,6 +1,7 @@
 # Name: Astrid Bos
 # Date: 2014.05.07
 
+###### configurate & load
 library(raster)
 
 source('R/ageCalculator.R')
